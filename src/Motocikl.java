@@ -19,6 +19,6 @@ public class Motocikl extends Vozilo {
 
     @Override
     public String prikaziPodatke() {
-        return super.prikaziPodatke() + ", tip motora: " + this.tipMotora + "\n";
+        return "Motocikl" + super.prikaziPodatke() + ",tip motora:" + this.tipMotora + "\n";
     }
 }

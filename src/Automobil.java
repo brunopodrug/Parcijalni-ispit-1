@@ -19,6 +19,6 @@ public class Automobil extends Vozilo {
 
     @Override
     public String prikaziPodatke() {
-       return ((super.prikaziPodatke()) + ", broj vrata: " + this.brojVrata + "\n");
+       return "Automobil" + super.prikaziPodatke() + ",broj vrata:" + this.brojVrata + "\n";
     }
 }

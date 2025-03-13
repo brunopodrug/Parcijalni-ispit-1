@@ -13,7 +13,7 @@ public class Vozilo {
     }
 
     public String prikaziPodatke() {
-        return "Registracijski broj: " + this.regBroj + ", marka vozila: " + this.marka +
-                ", godina proizvodnje: " + this.godinaProizvodnje;
+        return ",Registracijski broj:" + this.regBroj + ",marka vozila:" + this.marka +
+                ",godina proizvodnje:" + this.godinaProizvodnje;
     }
 }
