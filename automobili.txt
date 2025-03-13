@@ -1,0 +1,4 @@
+Registracijski broj: 1, marka vozila: Kawasaki, godina proizvodnje: 2008, tip motora: 600cc
+Registracijski broj: 22, marka vozila: Yamaha, godina proizvodnje: 2018, tip motora: 1000cc
+Registracijski broj: 333, marka vozila: BMW, godina proizvodnje: 2002, broj vrata: 4
+Registracijski broj: 4444, marka vozila: Audi, godina proizvodnje: 2020, broj vrata: 2
